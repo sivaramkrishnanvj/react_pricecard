@@ -1,0 +1,7 @@
+.button{
+  border-radius: 20px;
+}
+
+.main:hover{
+  transform: scale(1.1);
+}
